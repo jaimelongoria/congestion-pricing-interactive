@@ -145,14 +145,14 @@ hr {
 }
 
 .radio-toolbar label:hover {
-    background-color: #C23F48;
+    background-color: #ff7070;
     color: #FFFFFF;
-    border: 1px solid #C23F48;
+    border: 1px solid #ff7070;
 }
 
 .radio-toolbar input[type="radio"]:checked+label {
-    background-color: #AA0000;
-    border-color: #AA0000;
+    background-color: #ff5252;
+    border-color: #ff5252;
     color: #FFFFFF;
 }
 
@@ -339,9 +339,9 @@ hr {
     }
 
     .btn-group button:hover {
-        background-color: #AA0000;
+        background-color: #ff5252;
         color: #FFFFFF;
-        border: 1px solid #AA0000;
+        border: 1px solid #ff5252;
     }
 
     .occupy {
